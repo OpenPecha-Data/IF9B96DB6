@@ -1,0 +1,32 @@
+id: IF9B96DB6
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:00:02.828550'
+last_modified: '2022-05-31T05:00:02.828555'
+parser: null
+source_metadata:
+  title: Lala Sonam Chödrup Series
+  language: bo
+  description: Lala Sönam Chödrup (glag bla bsod nams chos 'grub, 1862–1944) of Nyarong
+    was regarded as a speech emanation of Dzogchen Pema Rigdzin. He is best-known
+    for his biography of Longchenpa and his commentary on the Aspiration of Sukhāvatī.
+  volume:
+    f11E1:
+      title: Prayer of Aspiration Incorporating the Eight Thoughts of Great Beings
+        Who Follow the Way of the Mahāyāna
+      base_file: f11E1.txt
+      order: 1
+      parent: Aspiration Prayers
+    f25A4:
+      title: A Brief Guide to Samaya Commitment
+      base_file: f25A4.txt
+      order: 2
+      parent: Samaya
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
